@@ -5670,11 +5670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deni\\Desktop\\01. Structure_Skeleton (.NET Core) (2)\\Travel.Tests\\Travel.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Deni\\Desktop\\01. Structure_Skeleton (.NET Core) (2)\\SoftuniOOPExam28April\\Travel.Tests\\Travel.Tests.csproj",
       "projectName": "Travel.Tests",
-      "projectPath": "C:\\Users\\Deni\\Desktop\\01. Structure_Skeleton (.NET Core) (2)\\Travel.Tests\\Travel.Tests.csproj",
+      "projectPath": "C:\\Users\\Deni\\Desktop\\01. Structure_Skeleton (.NET Core) (2)\\SoftuniOOPExam28April\\Travel.Tests\\Travel.Tests.csproj",
       "packagesPath": "C:\\Users\\Deni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Deni\\Desktop\\01. Structure_Skeleton (.NET Core) (2)\\Travel.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Deni\\Desktop\\01. Structure_Skeleton (.NET Core) (2)\\SoftuniOOPExam28April\\Travel.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5693,8 +5693,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Deni\\Desktop\\01. Structure_Skeleton (.NET Core) (2)\\Travel\\Travel.csproj": {
-              "projectPath": "C:\\Users\\Deni\\Desktop\\01. Structure_Skeleton (.NET Core) (2)\\Travel\\Travel.csproj"
+            "C:\\Users\\Deni\\Desktop\\01. Structure_Skeleton (.NET Core) (2)\\SoftuniOOPExam28April\\Travel\\Travel.csproj": {
+              "projectPath": "C:\\Users\\Deni\\Desktop\\01. Structure_Skeleton (.NET Core) (2)\\SoftuniOOPExam28April\\Travel\\Travel.csproj"
             }
           }
         }

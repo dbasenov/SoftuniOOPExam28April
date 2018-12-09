@@ -5,6 +5,7 @@
     using Travel.Entities.Airplanes;
     using System;
     using System.Reflection;
+    using System.Linq;
 
     public class AirplaneFactory : IAirplaneFactory
 	{
@@ -15,11 +16,15 @@
         //	return new MediumAirplane();
         public IAirplane CreateAirplane(string type)
 		{
-            Type actualType = Type.GetType(type);
+            var airplaneTypes = Assembly.GetCallingAssembly().GetTypes()
+                .Where(t => typeof(IAirplane).IsAssignableFrom(t) && !t.IsAbstract)
+                .ToArray();
 
-            IAirplane airplane = (IAirplane)Assembly.GetCallingAssembly().CreateInstance(type);
+            var airplaneType = airplaneTypes.FirstOrDefault(t => t.Name == type);
+
+            var airplane = (IAirplane)Activator.CreateInstance(airplaneType);
 
             return airplane;
-		}
+        }
 	}
 }

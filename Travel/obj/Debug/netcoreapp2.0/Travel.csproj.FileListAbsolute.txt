@@ -9,3 +9,14 @@ C:\Users\Deni\Desktop\01. Structure_Skeleton (.NET Core) (2)\Travel\bin\Debug\ne
 C:\Users\Deni\Desktop\01. Structure_Skeleton (.NET Core) (2)\Travel\bin\Debug\netcoreapp2.0\Travel.pdb
 C:\Users\Deni\Desktop\01. Structure_Skeleton (.NET Core) (2)\Travel\obj\Debug\netcoreapp2.0\Travel.dll
 C:\Users\Deni\Desktop\01. Structure_Skeleton (.NET Core) (2)\Travel\obj\Debug\netcoreapp2.0\Travel.pdb
+C:\Users\Deni\Desktop\01. Structure_Skeleton (.NET Core) (2)\SoftuniOOPExam28April\Travel\bin\Debug\netcoreapp2.0\Travel.deps.json
+C:\Users\Deni\Desktop\01. Structure_Skeleton (.NET Core) (2)\SoftuniOOPExam28April\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.json
+C:\Users\Deni\Desktop\01. Structure_Skeleton (.NET Core) (2)\SoftuniOOPExam28April\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.dev.json
+C:\Users\Deni\Desktop\01. Structure_Skeleton (.NET Core) (2)\SoftuniOOPExam28April\Travel\bin\Debug\netcoreapp2.0\Travel.dll
+C:\Users\Deni\Desktop\01. Structure_Skeleton (.NET Core) (2)\SoftuniOOPExam28April\Travel\bin\Debug\netcoreapp2.0\Travel.pdb
+C:\Users\Deni\Desktop\01. Structure_Skeleton (.NET Core) (2)\SoftuniOOPExam28April\Travel\obj\Debug\netcoreapp2.0\Travel.csprojAssemblyReference.cache
+C:\Users\Deni\Desktop\01. Structure_Skeleton (.NET Core) (2)\SoftuniOOPExam28April\Travel\obj\Debug\netcoreapp2.0\Travel.csproj.CoreCompileInputs.cache
+C:\Users\Deni\Desktop\01. Structure_Skeleton (.NET Core) (2)\SoftuniOOPExam28April\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfoInputs.cache
+C:\Users\Deni\Desktop\01. Structure_Skeleton (.NET Core) (2)\SoftuniOOPExam28April\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfo.cs
+C:\Users\Deni\Desktop\01. Structure_Skeleton (.NET Core) (2)\SoftuniOOPExam28April\Travel\obj\Debug\netcoreapp2.0\Travel.dll
+C:\Users\Deni\Desktop\01. Structure_Skeleton (.NET Core) (2)\SoftuniOOPExam28April\Travel\obj\Debug\netcoreapp2.0\Travel.pdb

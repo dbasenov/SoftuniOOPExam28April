@@ -17,7 +17,7 @@
 
 		public Bag(IPassenger owner, IEnumerable<IItem> items)
 		{
-			this.Owner = owner.Bags[0].Owner;
+            this.Owner = owner;
 			this.items = items.ToList();
 		}
 

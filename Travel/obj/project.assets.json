@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deni\\Desktop\\01. Structure_Skeleton (.NET Core) (2)\\Travel\\Travel.csproj",
+      "projectUniqueName": "C:\\Users\\Deni\\Desktop\\01. Structure_Skeleton (.NET Core) (2)\\SoftuniOOPExam28April\\Travel\\Travel.csproj",
       "projectName": "Travel",
-      "projectPath": "C:\\Users\\Deni\\Desktop\\01. Structure_Skeleton (.NET Core) (2)\\Travel\\Travel.csproj",
+      "projectPath": "C:\\Users\\Deni\\Desktop\\01. Structure_Skeleton (.NET Core) (2)\\SoftuniOOPExam28April\\Travel\\Travel.csproj",
       "packagesPath": "C:\\Users\\Deni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Deni\\Desktop\\01. Structure_Skeleton (.NET Core) (2)\\Travel\\obj\\",
+      "outputPath": "C:\\Users\\Deni\\Desktop\\01. Structure_Skeleton (.NET Core) (2)\\SoftuniOOPExam28April\\Travel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

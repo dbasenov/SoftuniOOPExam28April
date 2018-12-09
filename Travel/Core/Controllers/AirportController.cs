@@ -49,7 +49,7 @@
 
             foreach(var item in bagItems)
             {
-                IItem createdItem = itemFactory.CreateItem(item.GetType().Name);
+                IItem createdItem = itemFactory.CreateItem(item);
                 items.Add(createdItem);
             }
 			var bag = new Bag(passenger, items);
@@ -116,7 +116,7 @@
 		{
 			var luggageValue = 0;
 
-			for (int i = 0; i <= bag.Items.Count; i++)
+			for (int i = 0; i < bag.Items.Count; i++)
 			{
 				luggageValue += bag.Items.ToArray()[i].Value;
 			}
